@@ -15,44 +15,29 @@ Sixth sense is a 2 day hands-on workshop, which encompasses the basics of OpenCV
 The following resources consist of the slides taught in the respective sessions: 
 	
 
-<table align="left">
+<table align="center">
 <tbody>
 	
 <tr>		
 
 <td align="center">
-
 <a href="https://docs.google.com/presentation/d/14M40TtkifazEyAACvKdSq-cY0D_KIH61l-bY4b2PGBI/edit#slide=id.gfc64569471_0_213">Session 1</a>
 </td>
 	
 </tr>
  
-	
-
 <tr>
 
 
 <td align="center">
 <a href="https://docs.google.com/presentation/d/1VVkBe9NaExBnfDRXCtxNSz-R7BQznv47_CwD5wP7HzY/edit#slide=id.g10295189b13_0_11">Session 2</a>
 </td>
+	
 </tr>
 	
-	</tbody>
-	
+</tbody>
 </table>
 	
-
-
-
-
-
-
-
-
-
-
-
-
 
 <table align="center">
 <tbody>
@@ -66,13 +51,6 @@ The following resources consist of the slides taught in the respective sessions:
 <span><b><center>Link to the folder</center></b></span>
 </td>
 </tr>
- 
-	
-   
-  
-  
-   
- 
 
 <tr>
 <td align="center" >
@@ -156,18 +134,14 @@ The following resources consist of the slides taught in the respective sessions:
 <a href="https://github.com/ISTE-VIT/Sixth-Sense/tree/main/Python%20Automation">Link to the Repo</a>
 </td>
 </tr>
-	</tbody>
-	</table>
+</tbody>
+</table>
 	
 
-
-
-
-
-
-
+<br>
 <br>
 <hr>
 <p align="center">
 	With :heart: &nbsp;by <a href="https://istevit.in/" target="_blank">ISTE-VIT</a>
 </p>
+	
