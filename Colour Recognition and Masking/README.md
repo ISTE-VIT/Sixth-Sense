@@ -22,5 +22,9 @@ Now we will be showing the obtained colors in a new window called res by
  applying the mask which we defined earlier.
  
 <p align="center">
-<img src="https://user-images.githubusercontent.com/72293452/111137482-d9321180-85a4-11eb-8e61-dae7d08bebaa.jpg">
+<img src="https://github.com/ISTE-VIT/Sixth-Sense/blob/main/resources/masking1.png">
+</p>
+
+<p align="center">
+<img src="https://github.com/ISTE-VIT/Sixth-Sense/blob/main/resources/masking2.png">
 </p>
