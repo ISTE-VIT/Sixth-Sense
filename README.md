@@ -1,4 +1,5 @@
 # sixth-sense
+![sixth_sense_grid](https://user-images.githubusercontent.com/72293452/142650218-f8e8002e-8e13-4c5f-b296-2ba5803a76cf.png)
 
 
 
