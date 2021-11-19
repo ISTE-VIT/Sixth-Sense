@@ -1,8 +1,20 @@
-# sixth-sense
+<h1 align="center"> SIXTH SENSE 💡</h1>
+
+
+
 ![sixth_sense_grid](https://user-images.githubusercontent.com/72293452/142650218-f8e8002e-8e13-4c5f-b296-2ba5803a76cf.png)
 
+Sixth sense is a 2 day hands-on workshop, which encompasses the basics of OpenCV, Image Processing, Masking, Segmentation along with an introduction to Machine learning. The Capstone project made in the workshop is a plant disease classifier that helps in detection of diseases in plants at an early stage and thereby improve the quality of plant produce.
 
 
+
+<h2>Slides</h2>
+	
+The following resources consist of the slides taught in the respective sessions: 
+	
+- <a href="https://docs.google.com/presentation/d/14M40TtkifazEyAACvKdSq-cY0D_KIH61l-bY4b2PGBI/edit#slide=id.gfc64569471_0_213"> Session1 </a>
+
+- <a href="https://docs.google.com/presentation/d/1VVkBe9NaExBnfDRXCtxNSz-R7BQznv47_CwD5wP7HzY/edit#slide=id.g10295189b13_0_11">Session 2</a>
 <table align="center">
 <tbody>
 	
@@ -83,6 +95,7 @@
 <span><center>Face Recognition</center></span>
 </td>
 <td align="center">
+
 <a href="https://github.com/ISTE-VIT/Sixth-Sense/tree/main/Face%20Recognition">Link to the Repo</a>
 </td>
 </tr>
@@ -104,12 +117,18 @@
 <a href="https://github.com/ISTE-VIT/Sixth-Sense/tree/main/Python%20Automation">Link to the Repo</a>
 </td>
 </tr>
+	</tbody>
+	</table>
 	
-## Slides
-	
 
-<a href="https://docs.google.com/presentation/d/14M40TtkifazEyAACvKdSq-cY0D_KIH61l-bY4b2PGBI/edit#slide=id.gfc64569471_0_213"> Session1 </a>
 
-<a href="https://docs.google.com/presentation/d/1VVkBe9NaExBnfDRXCtxNSz-R7BQznv47_CwD5wP7HzY/edit#slide=id.g10295189b13_0_11">Session 2</a>
 
-## Programs
+
+
+
+
+<br>
+<hr>
+<p align="center">
+	With :heart: &nbsp;by <a href="https://istevit.in/" target="_blank">ISTE-VIT</a>
+</p>
