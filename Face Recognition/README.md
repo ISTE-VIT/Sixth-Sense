@@ -26,11 +26,17 @@ complexity as the image dimension change from 3 to single dimension).
 the face cascade, that’s what it detects.
 * The first option is the grayscale image.
 * The second is the scaleFactor. Since some faces may be closer to the camera, they would appear
-bigger than the faces in the back. The scale factor compensates for this.
+bigger than the faces in the back. The scale factor compensates for this.
  
- * The detection algorithm uses a moving window to detect objects. minNeighbors defines how many objects are detected near the current one before it declares the face found. minSize, meanwhile, gives the size of each window.
+ * The detection algorithm uses a moving window to detect objects. minNeighbors defines how many objects are detected near the current one before it declares the face found. minSize, meanwhile, gives the size of each window.
 
 4) For each one of the captured frames, we should save it as a file on a “dataSet” directory. Each file’s name will follow the structure:
 User.face_id.count.jpg
 
 5) Run the Python script by pressing F5.
+
+
+<p align="center">
+<img src="https://user-images.githubusercontent.com/72293452/111137482-d9321180-85a4-11eb-8e61-dae7d08bebaa.jpg">
+</p>
+
