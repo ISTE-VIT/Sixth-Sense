@@ -1,100 +1,21 @@
-# sixth-sense
+# Cartoonist
 
+In this code we will teach, how to covert an image to cartoon. The Libraries we will be using are: -
+* OpenCV-contrib 
+* numpy
 
+For this we are going to use a series of filters and image conversions which are given below: -
 
-<table align="center">
-<tbody>
-	
-<tr>		
-<td align="center" >
-<span><b><center>Repo Name</center></b></span>
-</td>
+1. Firstly we will create a blurred version of the original image. Now, we don’t want the colours to interfere in this process but only want the boundaries to get blurred. For this, we first convert the image to gray – scale and then we apply the media blur filter.
 
-<td align="center">
-<span><b><center>Link to the folder</center></b></span>
-</td>
-</tr>
- 
-	
-   
-  
-  
-   
- 
+2. Next we downscale the image and then apply bilateral filter to get a cartoon flavors and then again we upscale the image.
 
-<tr>
-<td align="center" >
-<span><center>Camera Timer</center></span>
-</td>
+3. After this we will identify the edges in the image and then add this to the previously modified images to get a sketch pen effect. For this we are using adaptive threshold.
 
-<td align="center">
-<a href="">Link to the Repo</a>
-</td>
-</tr>
+4. In the final step, we compile the final images obtained from the previous steps. 5. To run the code press ctrl+F5.
 
-<tr>
-<td align="center">
-<span><center>Cartoonist</center></span>
-</td>
-<td align="center">
-<a href="">Link to the Repo</a>
-</td>
-</tr>
-  
-<tr>
-<td align="center">
-<span><center> Colour Recognition</center></span>
-</td>
-<td align="center">
-<a href="">Link to the Repo</a>
-</td>
-</tr>
-  
-<tr>
-<td align="center">
-<span><center>Capstone</center></span>
-</td>
-<td align="center">
-<a href="">Link to the Repo</a>
-</td>
-</tr>
+Note : - The images which will be used in this program must be in the same folder the code is saved
 
-<tr>
-<td align="center">
-<span><center> Difference in Images</center></span>
-</td>
-<td align="center">
-<a href="">Link to the Repo</a>
-</td>
-</tr>
-  
-<tr>
-<td align="center">
-<span><center>Face Detection</center></span>
-</td>
-<td align="center">
-<a href="">Link to the Repo</a>
-</td>
-</tr>
-
-<tr>
-<td align="center">
-<span><center>Face Recognition</center></span>
-</td>
-<td align="center">
-<a href="">Link to the Repo</a>
-</td>
-</tr>
-  
-<tr>
-<td align="center">
-<span><center> Mask detection</center></span>
-</td>
-<td align="center">
-<a href="">Link to the Repo</a>
-</td>
-</tr>
-# Slides
-
-	<a href="https://docs.google.com/presentation/d/14M40TtkifazEyAACvKdSq-cY0D_KIH61l-bY4b2PGBI/edit#slide=id.gfc64569471_0_213">Session 1 </a>
-	 <a href="https://docs.google.com/presentation/d/1VVkBe9NaExBnfDRXCtxNSz-R7BQznv47_CwD5wP7HzY/edit#slide=id.g10295189b13_0_11">Session 2</a>
+<p align="center">
+<img src="https://user-images.githubusercontent.com/72293452/111137482-d9321180-85a4-11eb-8e61-dae7d08bebaa.jpg">
+</p>
