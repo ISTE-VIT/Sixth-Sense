@@ -1,100 +1,23 @@
-# sixth-sense
+# DRAGCOLOUR
 
-
-
-<table align="center">
-<tbody>
-	
-<tr>		
-<td align="center" >
-<span><b><center>Repo Name</center></b></span>
-</td>
-
-<td align="center">
-<span><b><center>Link to the folder</center></b></span>
-</td>
-</tr>
+ Color detection is the process of detecting the name of any color. Simple
+isn’t it? Well, for humans this is an extremely easy task but for computers, it
+is not straightforward. Human eyes and brains work together to translate
+light into color. Light receptors that are present in our eyes transmit the
+signal to the brain. Our brain then recognizes the color.
+The libraries that are used are as following:-
+Numpy opencv-contrib
+Then we will create RGB track paths using command cv2.createTrackbar.
+Firstly we will capture the image by using our primary camera and the
+ output of that capture image will be shown on the window called “Test”.
  
-	
-   
-  
-  
-   
  
-
-<tr>
-<td align="center" >
-<span><center>Camera Timer</center></span>
-</td>
-
-<td align="center">
-<a href="">Link to the Repo</a>
-</td>
-</tr>
-
-<tr>
-<td align="center">
-<span><center>Cartoonist</center></span>
-</td>
-<td align="center">
-<a href="">Link to the Repo</a>
-</td>
-</tr>
-  
-<tr>
-<td align="center">
-<span><center> Colour Recognition</center></span>
-</td>
-<td align="center">
-<a href="">Link to the Repo</a>
-</td>
-</tr>
-  
-<tr>
-<td align="center">
-<span><center>Capstone</center></span>
-</td>
-<td align="center">
-<a href="">Link to the Repo</a>
-</td>
-</tr>
-
-<tr>
-<td align="center">
-<span><center> Difference in Images</center></span>
-</td>
-<td align="center">
-<a href="">Link to the Repo</a>
-</td>
-</tr>
-  
-<tr>
-<td align="center">
-<span><center>Face Detection</center></span>
-</td>
-<td align="center">
-<a href="">Link to the Repo</a>
-</td>
-</tr>
-
-<tr>
-<td align="center">
-<span><center>Face Recognition</center></span>
-</td>
-<td align="center">
-<a href="">Link to the Repo</a>
-</td>
-</tr>
-  
-<tr>
-<td align="center">
-<span><center> Mask detection</center></span>
-</td>
-<td align="center">
-<a href="">Link to the Repo</a>
-</td>
-</tr>
-# Slides
-
-	<a href="https://docs.google.com/presentation/d/14M40TtkifazEyAACvKdSq-cY0D_KIH61l-bY4b2PGBI/edit#slide=id.gfc64569471_0_213">Session 1 </a>
-	 <a href="https://docs.google.com/presentation/d/1VVkBe9NaExBnfDRXCtxNSz-R7BQznv47_CwD5wP7HzY/edit#slide=id.g10295189b13_0_11">Session 2</a>
+As we have already made the trackbars in the previous step now we will
+ store the positions of trackbar in the variables. In this case it is r, g and b.
+ Now we will give 2 conditions one for the upper range of the color and the
+other lower range of the color and obtain the colors lying between these
+ranges and the colors outside the ranges will become black due to bitwise
+operations.
+Now we will be showing the obtained colors in a new window called res by
+ applying the mask which we defined earlier.
+ 
