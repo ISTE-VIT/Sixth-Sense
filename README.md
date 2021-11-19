@@ -96,7 +96,7 @@
 </tr>
 	
 	
-### Slides
+## Slides
 	
 <p align="center">
 <a href="https://docs.google.com/presentation/d/14M40TtkifazEyAACvKdSq-cY0D_KIH61l-bY4b2PGBI/edit#slide=id.gfc64569471_0_213"> Session 1 </a>
