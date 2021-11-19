@@ -13,5 +13,8 @@ Camera_timer.py
 * Later we will be using putText function which will help us writing in the screen ,the while loop is used for countdown.
 * And as soon as the timer ends the system will capture the frame using imwrite function .
 <p align="center">
-<img src="https://user-images.githubusercontent.com/72293452/111137482-d9321180-85a4-11eb-8e61-dae7d08bebaa.jpg">
+<img src="https://github.com/a-ma-n/Sixth-Sense/blob/main/resources/camera_timer1.png">
+</p>
+<p align="center">
+<img src="https://github.com/a-ma-n/Sixth-Sense/blob/main/resources/camer_timer2.png">
 </p>
