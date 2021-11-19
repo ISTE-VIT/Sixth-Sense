@@ -17,7 +17,7 @@ other lower range of the hsv and obtain the pixels lying between these
 ranges and the pixels outside the ranges will become black due to bitwise
 operations.
 Now we will be showing the obtained pixels in a new window called res by
- applying the mask which we defined earlier.
+ applying the mask which we defined earlier!
  
 <p align="center">
 <img src="https://github.com/ISTE-VIT/Sixth-Sense/blob/main/resources/masking1.png">
