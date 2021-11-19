@@ -96,7 +96,7 @@
 </tr>
 	
 	
-# Slides
+### Slides
 	
 <p align="center">
 <a href="https://docs.google.com/presentation/d/14M40TtkifazEyAACvKdSq-cY0D_KIH61l-bY4b2PGBI/edit#slide=id.gfc64569471_0_213"> Session 1 </a>
@@ -104,4 +104,6 @@
 	<p align="center">
 <a href="https://docs.google.com/presentation/d/1VVkBe9NaExBnfDRXCtxNSz-R7BQznv47_CwD5wP7HzY/edit#slide=id.g10295189b13_0_11">Session 2</a>
 	</p>
+	
+## Programs
 
