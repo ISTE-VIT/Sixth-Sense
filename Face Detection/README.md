@@ -1,100 +1,20 @@
-# sixth-sense
+#Face Detection
 
+The objective of the program given is to detect object of interest(face) in real time and to keep tracking of the same object. Face detection using haarcascades is a machine learning based approach where a cascade function is trained with a set of input data. OpenCV already contains many pre-trained classifiers for face, eyes, smiles, etc.
 
+The Libraries we will be using are: -
+* OpenCV-contrib
 
-<table align="center">
-<tbody>
-	
-<tr>		
-<td align="center" >
-<span><b><center>Repo Name</center></b></span>
-</td>
+To detected the face, the following steps are followed: -
+1)Firstly, we initialize cascade which is just an XML file that contains the data to detect faces. We read the image and convert BGR frames to grayscale. (RGB to gray scale is done to reduce complexity as the image dimension change from 3 to single dimension).
+2) After Grayscaling, we detect the number of faces and output is printed in the shell .
+3) Lastly the rectangular box is drawn around the face and eyes for the different sizes of faces and eyes dimension and cv2.imshow is used to display an image in a window.
+To run the code press ctrl+F5.
+Note :- all the haarcascade file should be in the same folder in which the code is saved.
+In case of Auto_web_using_face program all the steps remain same asface detection program only we have import webbrower and define we need to define the browser which you want open after the detection of faces.
 
-<td align="center">
-<span><b><center>Link to the folder</center></b></span>
-</td>
-</tr>
- 
-	
-   
+<p align="center">
+<img src="https://user-images.githubusercontent.com/72293452/111137482-d9321180-85a4-11eb-8e61-dae7d08bebaa.jpg">
+</p>
+
   
-  
-   
- 
-
-<tr>
-<td align="center" >
-<span><center>Camera Timer</center></span>
-</td>
-
-<td align="center">
-<a href="">Link to the Repo</a>
-</td>
-</tr>
-
-<tr>
-<td align="center">
-<span><center>Cartoonist</center></span>
-</td>
-<td align="center">
-<a href="">Link to the Repo</a>
-</td>
-</tr>
-  
-<tr>
-<td align="center">
-<span><center> Colour Recognition</center></span>
-</td>
-<td align="center">
-<a href="">Link to the Repo</a>
-</td>
-</tr>
-  
-<tr>
-<td align="center">
-<span><center>Capstone</center></span>
-</td>
-<td align="center">
-<a href="">Link to the Repo</a>
-</td>
-</tr>
-
-<tr>
-<td align="center">
-<span><center> Difference in Images</center></span>
-</td>
-<td align="center">
-<a href="">Link to the Repo</a>
-</td>
-</tr>
-  
-<tr>
-<td align="center">
-<span><center>Face Detection</center></span>
-</td>
-<td align="center">
-<a href="">Link to the Repo</a>
-</td>
-</tr>
-
-<tr>
-<td align="center">
-<span><center>Face Recognition</center></span>
-</td>
-<td align="center">
-<a href="">Link to the Repo</a>
-</td>
-</tr>
-  
-<tr>
-<td align="center">
-<span><center> Mask detection</center></span>
-</td>
-<td align="center">
-<a href="">Link to the Repo</a>
-</td>
-</tr>
-# Slides
-
-	<a href="https://docs.google.com/presentation/d/14M40TtkifazEyAACvKdSq-cY0D_KIH61l-bY4b2PGBI/edit#slide=id.gfc64569471_0_213">Session 1 </a>
-	 <a href="https://docs.google.com/presentation/d/1VVkBe9NaExBnfDRXCtxNSz-R7BQznv47_CwD5wP7HzY/edit#slide=id.g10295189b13_0_11">Session 2</a>
