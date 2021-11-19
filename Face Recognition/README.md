@@ -37,6 +37,6 @@ User.face_id.count.jpg
 
 
 <p align="center">
-<img src="https://user-images.githubusercontent.com/72293452/111137482-d9321180-85a4-11eb-8e61-dae7d08bebaa.jpg">
+<img src="https://github.com/ISTE-VIT/Sixth-Sense/blob/main/resources/face_recognintion.png">
 </p>
 
