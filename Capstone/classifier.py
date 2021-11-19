@@ -23,6 +23,7 @@ print("\nTraining dataset:-\n")
 print(X)
 
 
+#preparing test dataset
 log = pd.read_csv("Datasetunlabelledlog.csv")
 
 log = log.tail(1)
@@ -31,16 +32,20 @@ X_ul = log.drop(['imgid','fold num'], axis=1)
 print("\nTest dataset:-\n")
 print(X_ul)
 
-
+#splitting dataset into training and testing
 
 x_train, Xi_test, y_train, yi_test = train_test_split(X, y, test_size=0.32, random_state=60,shuffle=True)  
         # here take care of the train test split size and shuffling, show them incorrect parametes will lead to incorrect results
-svclassifier = SVC(kernel='linear')  
+#creating instance variable for SVM Classifier
+svclassifier = SVC(kernel='linear') 
+#training the model 
 svclassifier.fit(x_train, y_train)  
+#predicting the test dataset
 pred = svclassifier.predict(X_ul)
 
 print("\nprediction: %d" %int(pred))
 
+#if prediction <0.5 then infected else healthy
 if(pred < 0.5):
 	print("The leaf is sufficiently healthy!")
 else:
