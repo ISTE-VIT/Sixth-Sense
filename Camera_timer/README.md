@@ -1,100 +1,11 @@
-# sixth-sense
+# Camera-Timer
 
 
-
-<table align="center">
-<tbody>
-	
-<tr>		
-<td align="center" >
-<span><b><center>Repo Name</center></b></span>
-</td>
-
-<td align="center">
-<span><b><center>Link to the folder</center></b></span>
-</td>
-</tr>
- 
-	
-   
-  
-  
-   
- 
-
-<tr>
-<td align="center" >
-<span><center>Camera Timer</center></span>
-</td>
-
-<td align="center">
-<a href="">Link to the Repo</a>
-</td>
-</tr>
-
-<tr>
-<td align="center">
-<span><center>Cartoonist</center></span>
-</td>
-<td align="center">
-<a href="">Link to the Repo</a>
-</td>
-</tr>
-  
-<tr>
-<td align="center">
-<span><center> Colour Recognition</center></span>
-</td>
-<td align="center">
-<a href="">Link to the Repo</a>
-</td>
-</tr>
-  
-<tr>
-<td align="center">
-<span><center>Capstone</center></span>
-</td>
-<td align="center">
-<a href="">Link to the Repo</a>
-</td>
-</tr>
-
-<tr>
-<td align="center">
-<span><center> Difference in Images</center></span>
-</td>
-<td align="center">
-<a href="">Link to the Repo</a>
-</td>
-</tr>
-  
-<tr>
-<td align="center">
-<span><center>Face Detection</center></span>
-</td>
-<td align="center">
-<a href="">Link to the Repo</a>
-</td>
-</tr>
-
-<tr>
-<td align="center">
-<span><center>Face Recognition</center></span>
-</td>
-<td align="center">
-<a href="">Link to the Repo</a>
-</td>
-</tr>
-  
-<tr>
-<td align="center">
-<span><center> Mask detection</center></span>
-</td>
-<td align="center">
-<a href="">Link to the Repo</a>
-</td>
-</tr>
-# Slides
-
-	<a href="https://docs.google.com/presentation/d/14M40TtkifazEyAACvKdSq-cY0D_KIH61l-bY4b2PGBI/edit#slide=id.gfc64569471_0_213">Session 1 </a>
-	 <a href="https://docs.google.com/presentation/d/1VVkBe9NaExBnfDRXCtxNSz-R7BQznv47_CwD5wP7HzY/edit#slide=id.g10295189b13_0_11">Session 2</a>
+In this program we will be using some functions of Opencv library to open the webcam , write text on the the screen and capture the image by a single click .
+The Libraries we will be using are: -
+● cv2: This is the OpenCV module for Python used for face detection and face recognition.
+● time: This is used to detect the activity with respect to time .
+Camera_timer.py
+● In this program we will be taking the input odf webcam using VideoCapture function of cv2
+● Later we will be using putText function which will help us writing in the screen ,the while loop is used for countdown.
+● And as soon as the timer ends the system will capture the frame using imwrite function .
