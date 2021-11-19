@@ -1,4 +1,4 @@
-#Face Detection
+# Face Detection
 
 The objective of the program given is to detect object of interest(face) in real time and to keep tracking of the same object. Face detection using haarcascades is a machine learning based approach where a cascade function is trained with a set of input data. OpenCV already contains many pre-trained classifiers for face, eyes, smiles, etc.
 
