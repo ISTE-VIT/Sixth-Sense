@@ -28,25 +28,25 @@
 </td>
 
 <td align="center">
-<a href="">Link to the Repo</a>
+<a href="https://github.com/a-ma-n/Sixth-Sense/tree/main/Camera_timer">Link to the Repo</a>
 </td>
 </tr>
 
 <tr>
 <td align="center">
-<span><center>Cartoonist</center></span>
+<span><center>Cartoonify</center></span>
 </td>
 <td align="center">
-<a href="">Link to the Repo</a>
+<a href="https://github.com/a-ma-n/Sixth-Sense/tree/main/cartoonify">Link to the Repo</a>
 </td>
 </tr>
   
 <tr>
 <td align="center">
-<span><center> Colour Recognition</center></span>
+<span><center> Colour Recognition and Masking</center></span>
 </td>
 <td align="center">
-<a href="">Link to the Repo</a>
+<a href="https://github.com/a-ma-n/Sixth-Sense/tree/main/Colour%20Recognition%20and%20Masking">Link to the Repo</a>
 </td>
 </tr>
   
@@ -55,7 +55,7 @@
 <span><center>Capstone</center></span>
 </td>
 <td align="center">
-<a href="">Link to the Repo</a>
+<a href="https://github.com/a-ma-n/Sixth-Sense/tree/main/Capstone">Link to the Repo</a>
 </td>
 </tr>
 
@@ -64,7 +64,7 @@
 <span><center> Difference in Images</center></span>
 </td>
 <td align="center">
-<a href="">Link to the Repo</a>
+<a href="https://github.com/a-ma-n/Sixth-Sense/tree/main/Find%20Difference%20in%20Images">Link to the Repo</a>
 </td>
 </tr>
   
@@ -73,7 +73,7 @@
 <span><center>Face Detection</center></span>
 </td>
 <td align="center">
-<a href="">Link to the Repo</a>
+<a href="https://github.com/a-ma-n/Sixth-Sense/tree/main/Face%20Detection">Link to the Repo</a>
 </td>
 </tr>
 
@@ -82,7 +82,7 @@
 <span><center>Face Recognition</center></span>
 </td>
 <td align="center">
-<a href="">Link to the Repo</a>
+<a href="https://github.com/a-ma-n/Sixth-Sense/tree/main/Face%20Recognition">Link to the Repo</a>
 </td>
 </tr>
   
@@ -91,19 +91,22 @@
 <span><center> Mask detection</center></span>
 </td>
 <td align="center">
-<a href="">Link to the Repo</a>
+<a href="https://github.com/a-ma-n/Sixth-Sense/tree/main/Mask%20Detection">Link to the Repo</a>
+</td>
+</tr>
+
+<tr>
+<td align="center">
+<span><center> Python Automation</center></span>
+</td>
+<td align="center">
+<a href="https://github.com/a-ma-n/Sixth-Sense/tree/main/Python%20Automation">Link to the Repo</a>
 </td>
 </tr>
 	
+# Slides
 	
-## Slides
-	
-<p align="center">
-<a href="https://docs.google.com/presentation/d/14M40TtkifazEyAACvKdSq-cY0D_KIH61l-bY4b2PGBI/edit#slide=id.gfc64569471_0_213"> Session 1 </a>
-</p>
-	<p align="center">
-<a href="https://docs.google.com/presentation/d/1VVkBe9NaExBnfDRXCtxNSz-R7BQznv47_CwD5wP7HzY/edit#slide=id.g10295189b13_0_11">Session 2</a>
-	</p>
-	
-## Programs
 
+<a href="https://docs.google.com/presentation/d/14M40TtkifazEyAACvKdSq-cY0D_KIH61l-bY4b2PGBI/edit#slide=id.gfc64569471_0_213"> Session1 </a>
+
+<a href="https://docs.google.com/presentation/d/1VVkBe9NaExBnfDRXCtxNSz-R7BQznv47_CwD5wP7HzY/edit#slide=id.g10295189b13_0_11">Session 2</a>
