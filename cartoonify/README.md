@@ -17,5 +17,5 @@ For this we are going to use a series of filters and image conversions which are
 Note : - The images which will be used in this program must be in the same folder the code is saved
 
 <p align="center">
-<img src="https://user-images.githubusercontent.com/72293452/111137482-d9321180-85a4-11eb-8e61-dae7d08bebaa.jpg">
+<img src="https://github.com/ISTE-VIT/Sixth-Sense/blob/main/resources/cartoonist.png">
 </p>
