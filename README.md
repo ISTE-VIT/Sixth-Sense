@@ -16,6 +16,8 @@ The following resources consist of the slides taught in the respective sessions:
 	
 - <a href="https://docs.google.com/presentation/d/14M40TtkifazEyAACvKdSq-cY0D_KIH61l-bY4b2PGBI/edit#slide=id.gfc64569471_0_213">Session 1</a>
 - <a href="https://docs.google.com/presentation/d/1VVkBe9NaExBnfDRXCtxNSz-R7BQznv47_CwD5wP7HzY/edit#slide=id.g10295189b13_0_11">Session 2</a>
+
+<h2>Resources</h2>
 <!-- <table align="center">
 <tbody>
 	
