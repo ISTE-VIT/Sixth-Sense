@@ -1,7 +1,7 @@
 # Camera-Timer
 
 
-In this program we will be using some functions of Opencv library to open the webcam , write text on the the screen and capture the image by a single click .
+In this program we will be using some functions of Opencv library to open the webcam , write text on the the screen and capture the image by a single click.
 
 The Libraries we will be using are: -
 ---
