@@ -7,7 +7,7 @@ There are three steps used for recognizing faces.
 Data Gathering: Gather face data (face images in this case) of the persons you want to identify. Train the Recognizer: Feed that face data and respective names of each face to the recognizer so that it can learn.
 Recognition: Feed new faces of that people and see if the face recognizer you just trained recognizes them.
 
-The Libraries we will be using are: -
+The Libraries we will be using are:-
 * cv2: This is the OpenCV module for Python used for face detection and face recognition.
 
 * os: We will use this Python module to read our training directories and file names.

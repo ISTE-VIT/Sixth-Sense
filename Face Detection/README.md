@@ -2,7 +2,7 @@
 
 The objective of the program given is to detect object of interest(face) in real time and to keep tracking of the same object. Face detection using haarcascades is a machine learning based approach where a cascade function is trained with a set of input data. OpenCV already contains many pre-trained classifiers for face, eyes, smiles, etc.
 
-The Libraries we will be using are: -
+The Libraries we will be using are:-
 * OpenCV-contrib
 
 To detected the face, the following steps are followed: -
@@ -19,7 +19,7 @@ Note :- all the haarcascade file should be in the same folder in which the code 
 In case of Auto_web_using_face program all the steps remain same asface detection program only we have import webbrower and define we need to define the browser which you want open after the detection of faces.
 
 <p align="center">
-<img src="https://user-images.githubusercontent.com/72293452/111137482-d9321180-85a4-11eb-8e61-dae7d08bebaa.jpg">
+<img src="https://github.com/ISTE-VIT/Sixth-Sense/blob/main/resources/face_detection.png">
 </p>
 
   
